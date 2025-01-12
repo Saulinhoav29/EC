@@ -142,7 +142,7 @@ https://d27a7brtx3v90o.cloudfront.net/original.m3u8
 # ---- CANALES IPTV INTERNACIONALES  ---------
 
 #EXTINF:-1, WOW TV EL SALVADOR
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
 
 #EXTINF:-1, CINE CANELA TV
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
