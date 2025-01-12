@@ -207,4 +207,14 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1, TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
+#EXTINF:-1, CANAL 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
+#EXTINF:-1, CANAL 4
+https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
+
+#EXTINF:-1, CANAL 3 IMPRESIONANTE
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+
+#EXTINF:-1, CANAL 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
