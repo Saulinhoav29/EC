@@ -7,9 +7,6 @@
 #EXTINF:-1, TVS RETRO GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1, GTV GUATEMALA
-https://vdo1.panelstreaming.live:3820/live/gtvlive.m3u8
-
 #EXTINF:-1, BANDA TV GT GUATEMALA
 https://cdn.streamhispanatv.net:3476/live/bandatvlive.m3u8
 
@@ -26,6 +23,9 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1, EL-ROÍ TV SOLOLÁ
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 
+#EXTINF:-1, SUPERCABLE SOLOLÁ
+https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
+
 
 #EXTINF:-1, PLAY MEDIOS TV QUETZALTENANGO
 https://ssh101-fl.bozztv.com/ssh101/playmedios/tracks-v1a1/mono.m3u8
@@ -35,7 +35,7 @@ https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 
 
 #EXTINF:-1, TOTOVISIÓN TOTONICAPÁN
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/totovision/playlist.m3u8
 
 #EXTINF:-1, AURORA MEDIA FILMS TOTONICAPÁN
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
@@ -45,6 +45,9 @@ https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
 
 #EXTINF:-1, PMCS TV TOTONICAPÁN
 https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8
+
+#EXTINF:-1, + TV TOTONICAPÁN
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 
 
 #EXTINF:-1, FULL CHANNEL SACATEPÉQUEZ
@@ -64,6 +67,9 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1, CANAL 21 RUDYVISION QUICHÉ
 https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
 
+#EXTINF:-1, CANAL 4 IXIL QUICHÉ
+https://cdn.streamhispanatv.net:3622/live/canalixillive.m3u8
+
 
 #EXTINF:-1, CANAL 8 SANTA ROSA
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
@@ -81,8 +87,11 @@ https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 #EXTINF:-1, MÁS TV SAN MARCOS
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 
-#EXTINF:-1, IXCHIGUÁN ESTEREO SAN MARCOS
+#EXTINF:-1, CANAL 9 IXCHIGUÁN SAN MARCOS
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+
+#EXTINF:-1, CANAL CXN SAN MARCOS
+https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
 
 
 #EXTINF:-1, TV FLORENCIA CHIMALTENANGO
@@ -97,6 +106,10 @@ https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 
 #EXTINF:-1, JUTIAPA VISIÓN JUTIAPA
 https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8
+
+
+#EXTINF:-1, CANAL 84 CRISTO TE LLAMA BAJA VERAPAZ
+https://cdn.streamhispanatv.net:3798/live/c84cristolive.m3u8
 
 
 # ---------- CANALES DE ECUADOR ---------
