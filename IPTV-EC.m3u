@@ -236,3 +236,12 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 
 #EXTINF:-1, INFINITA TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1, CANAL MAS TELEVISIÓN
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1, CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1, CINERAMA TV BOLIVIA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
