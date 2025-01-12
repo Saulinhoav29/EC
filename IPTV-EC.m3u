@@ -115,7 +115,7 @@ https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 
 #EXTINF:-1, ECU: ECUAVISA GUAYAQUIL
-https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=b13214079799706530356f727c5&ndvc=0&sid=ba5t1l1xb212588476506530373ac8bc3
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b2124090985067843115ea7f1
 
 #EXTINF:-1, ECU: TELEAMAZONAS QUITO
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
@@ -130,13 +130,13 @@ https://envivo.telerama.ec/stream.m3u8
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
 #EXTINF:-1, ECU: TVC ECUADOR
-https://d2blnrh268ipk.cloudfront.net/index.m3u8
+https://d2blnrh268ipk.cloudfront.net/original.m3u8
 
 #EXTINF:-1, ECU: OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1, ECU: RTS
-https://d27a7brtx3v90o.cloudfront.net/index.m3u8
+https://d27a7brtx3v90o.cloudfront.net/original.m3u8
 
 
 # ---- CANALES IPTV INTERNACIONALES  ---------
