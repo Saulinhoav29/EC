@@ -197,3 +197,14 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1, CANAL SUR 2 ACCESIBLE
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+
+# ---- CANALES IPTV NUEVOS  --------- Link: https://iptv-org.github.io/?q=languages:spa
+
+#EXTINF:-1, MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF:-1, TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+
