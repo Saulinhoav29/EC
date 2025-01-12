@@ -7,9 +7,6 @@
 #EXTINF:-1, TVS RETRO GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1, BANDA TV GT GUATEMALA
-https://cdn.streamhispanatv.net:3476/live/bandatvlive.m3u8
-
 
 #EXTINF:-1, NIM TV SOLOLÁ
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
@@ -94,6 +91,10 @@ https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
 
 
+#EXTINF:-1, CANAL 84 CRISTO TE LLAMA BAJA VERAPAZ
+https://cdn.streamhispanatv.net:3798/live/c84cristolive.m3u8
+
+
 #EXTINF:-1, TV FLORENCIA CHIMALTENANGO
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
@@ -106,10 +107,6 @@ https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 
 #EXTINF:-1, JUTIAPA VISIÓN JUTIAPA
 https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8
-
-
-#EXTINF:-1, CANAL 84 CRISTO TE LLAMA BAJA VERAPAZ
-https://cdn.streamhispanatv.net:3798/live/c84cristolive.m3u8
 
 
 # ---------- CANALES DE ECUADOR ---------
