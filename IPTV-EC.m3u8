@@ -1,0 +1,262 @@
+# ACTUALIZACION 14-01-2025
+
+#EXTM3U
+
+# --- Link de Canales de Guatemala https://www.playgt.net/ ---
+
+#EXTINF:-1, TVS RETRO GUATEMALA
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
+#EXTINF:-1, NIM TV SOLOLÁ
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1, VISIÓN TV SOLOLÁ
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1, SOL TV SOLOLÁ
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1, EL-ROÍ TV SOLOLÁ
+https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
+
+#EXTINF:-1, SUPERCABLE SOLOLÁ
+https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
+
+
+#EXTINF:-1, PLAY MEDIOS TV QUETZALTENANGO
+https://ssh101-fl.bozztv.com/ssh101/playmedios/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, LUNA VISIÓN QUETZALTENANGO 
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+
+
+#EXTINF:-1, TOTOVISIÓN TOTONICAPÁN
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/totovision/playlist.m3u8
+
+#EXTINF:-1, AURORA MEDIA FILMS TOTONICAPÁN
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1, BUZZER TV TOTONICAPÁN
+https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
+
+#EXTINF:-1, PMCS TV TOTONICAPÁN
+https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8
+
+#EXTINF:-1, + TV TOTONICAPÁN
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
+
+
+#EXTINF:-1, FULL CHANNEL SACATEPÉQUEZ
+https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
+
+
+#EXTINF:-1, SAS TV SUCHITEPÉQUEZ
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1, CNI DIGITAL SUCHITEPÉQUEZ
+https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
+
+
+#EXTINF:-1, CANAL 100 QUICHÉ 
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+
+#EXTINF:-1, CANAL 21 RUDYVISION QUICHÉ
+https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
+
+#EXTINF:-1, CANAL 4 IXIL QUICHÉ
+https://cdn.streamhispanatv.net:3622/live/canalixillive.m3u8
+
+
+#EXTINF:-1, CANAL 8 SANTA ROSA
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+#EXTINF:-1, CANAL 9 BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1, JESÚS TV SANTA ROSA
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+
+#EXTINF:-1, PRESENCIA TV SANTA ROSA
+https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
+
+
+#EXTINF:-1, MÁS TV SAN MARCOS
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
+
+#EXTINF:-1, CANAL 9 IXCHIGUÁN SAN MARCOS
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+
+#EXTINF:-1, CANAL CXN SAN MARCOS
+https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
+
+
+#EXTINF:-1, CANAL 84 CRISTO TE LLAMA BAJA VERAPAZ
+https://cdn.streamhispanatv.net:3798/live/c84cristolive.m3u8
+
+
+#EXTINF:-1, TV FLORENCIA CHIMALTENANGO
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+#EXTINF:-1, CANAL 35 YEPOTV CHIMALTENANGO
+https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
+
+
+#EXTINF:-1, CANAL 26 CONO SUR JUTIAPA
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
+
+#EXTINF:-1, JUTIAPA VISIÓN JUTIAPA
+https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8
+
+
+# ---------- CANALES DE ECUADOR ---------
+
+#EXTINF:-1, ECU: ZARACAY TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+#EXTINF:-1, ECU: ECUAVISA GUAYAQUIL
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b21423819316678436e09bacc&sid=ba5t1l1xb2946634710678436ebabd13&ndvc=0
+
+#EXTINF:-1, ECU: TELEAMAZONAS QUITO
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+
+#EXTINF:-1, ECU: ECUADOR TV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ECU: TELERAMA
+https://envivo.telerama.ec/stream.m3u8
+
+#EXTINF:-1, ECU: RTU
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+
+#EXTINF:-1, ECU: TVC ECUADOR
+https://d2blnrh268ipk.cloudfront.net/original.m3u8
+
+#EXTINF:-1, ECU: OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1, ECU: RTS
+https://d27a7brtx3v90o.cloudfront.net/original.m3u8
+
+#EXTINF:-1, ECU: RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1, ECU: PLUS TV
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+
+# ---- CANALES IPTV INTERNACIONALES  ---------
+
+#EXTINF:-1, DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1, RT TV
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1, RT DOCUMENTARY CHANNEL
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
+
+#EXTINF:-1, CO: NOTICIAS CARACOL COLOMBIA
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+#EXTINF:-1, CO: CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, WOW TV EL SALVADOR
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
+
+#EXTINF:-1, CANAL NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1, CINE CANELA TV
+https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
+
+#EXTINF:-1, CINEMA MEXICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
+
+#EXTINF:-1, CANAL 6 MEXICO
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1, ENLACE TV
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1, LATINA TV
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b1311419346662664ed794cbe1a&ndvc=0&sid=ba5t1l1xb2764421227664ed79634f07
+
+#EXTINF:-1, TELE SUR TV
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
+
+#EXTINF:-1, CANAL ONCE MEXICO
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1, EL TORO TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1, 24H
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1, EL PAÍS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1, NEGOCIOS TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1, CANAL SUR 2 ACCESIBLE
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+
+# ---- CANALES IPTV NUEVOS  --------- Link: https://iptv-org.github.io/?q=languages:spa
+
+#EXTINF:-1, MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF:-1, TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+#EXTINF:-1, CANAL 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+
+#EXTINF:-1, CANAL 4
+https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
+
+#EXTINF:-1, CANAL 3 IMPRESIONANTE
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+
+#EXTINF:-1, CANAL 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
+#EXTINF:-1, CANAL 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1, LATINA TV
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b27110169616784412f15700&sid=ba5t1l1xb263851193767844164bb2c6&ndvc=0
+
+#EXTINF:-1, BOING TV ESPAÑA
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+
+#EXTINF:-1, INFINITA TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1, CANAL MAS TELEVISIÓN
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1, CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1, CINERAMA TV BOLIVIA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1, CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1, NICKELODEON EN ESPAÑOL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+
+#EXTINF:-1, AMC EN ESPAÑOL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
+
+#EXTINF:-1, THE WALKING DEAD EN ESPAÑOL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=223ef689-92ba-46c9-9fc3-aa575c675e5c
+
+#EXTINF:-1, PLUTO TV THE WALKING DEAD ESP (720P)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
