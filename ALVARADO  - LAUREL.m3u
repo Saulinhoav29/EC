@@ -41,9 +41,6 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1, DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1, RT TV
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-
 #EXTINF:-1, WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
 
