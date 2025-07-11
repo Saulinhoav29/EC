@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/TC_logo.png?raw=true", TC MI CANAL
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/TC_logo.png?raw=true", TC Televisión
 https://live.eu-north-1b.cf.dmcdn.net/sec2(EoTSwdj25Uxx4yb9ddM0fb-TI8xGHTuTX_LJyALpY42MqCzKnWt2GW7tVqej1MxXm0ujnfnqS7nh_-7JrRSJwuhoQdeF0xgLw-haJVKAz0MsC3j5-3B8H_8NwvIZgmYY)/dm/3/x7wijay/d/live-720.m3u8#cell=lcf-eu-north-1b
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Gamavision_logo.png?raw=true", GAMAVISIÓN
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Gamavision_logo.png?raw=true", GamaTV
 https://stream.esradioecuador.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/EcuadorTV_logo.png?raw=true", ECUADOR TV
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/EcuadorTV_logo.png?raw=true", Ecuador TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Teleamazonas_Logo.png?raw=true", TELEAMAZONAS
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Teleamazonas_Logo.png?raw=true", Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Rts_logo.png?raw=true", RTS
 https://d27a7brtx3v90o.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Ecuavisa_Logo.png?raw=true", ECUAVISA
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Ecuavisa_Logo.png?raw=true", Ecuavisa
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b21423819316678436e09bacc&sid=ba5t1l1xb2946634710678436ebabd13&ndvc=0
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Oromar_logo.png?raw=true", OROMAR TV
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Oromar_logo.png?raw=true", Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1, RTU
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/RTU_logo.png?raw=true", RTU
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
-#EXTINF:-1, TVC ECUADOR
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/TVC_logo.png?raw=true", TVC
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8
 
-#EXTINF:-1, RTV
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/RTV_logo.png?raw=true", RTV
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
-#EXTINF:-1, PLUS TV
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/PLUSTV_logo.png?raw=true", PlusTV
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1, ZARACAY TV
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Zaracay_logo.png?raw=true", Zaracay TV
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 
-#EXTINF:-1, TVS RETRO GUATEMALA
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Tvs_logo.png?raw=true", TVS Retro Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1, DW ESPAÑOL
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/DW_logo.png?raw=true", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1, RT TV
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/RT_logo.png?raw=true", RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1, WOW TV EL SALVADOR
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WOW_logo.png?raw=true", WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
 
