@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png", TC MI CANAL 10
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/TC_logo.png?raw=true", TC MI CANAL 10
 https://live.eu-north-1b.cf.dmcdn.net/sec2(EoTSwdj25Uxx4yb9ddM0fb-TI8xGHTuTX_LJyALpY42MqCzKnWt2GW7tVqej1MxXm0ujnfnqS7nh_-7JrRSJwuhoQdeF0xgLw-haJVKAz0MsC3j5-3B8H_8NwvIZgmYY)/dm/3/x7wijay/d/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1, GAMAVISIÓN
