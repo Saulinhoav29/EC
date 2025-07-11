@@ -41,7 +41,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/DW_logo.png?raw=true", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/RT_logo.png?raw=true", RT en Español
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/RT_Logo.png?raw=true", RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WOW_logo.png?raw=true", WOW TV El Salvador
