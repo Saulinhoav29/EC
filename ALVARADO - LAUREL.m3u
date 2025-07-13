@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/TC_logo.png?raw=true", TC Televisión
-https://live.eu-north-1a.cf.dmcdn.net/sec2(zI3FY3jMBWgBNEDAbvoHg4TkjZ0SSArXEjxMlruk0PiNtn5xlBz5N0FwbavHfd6mIPH00Kq_XkXasCeJHhYeiOmDGh2y-IxrxEEeovqIJS_QEuAmB9fQYead2ruqMkQ5)/dm/3/x7wijay/d/live-720.m3u8#cell=lcf-eu-north-1a
+https://live.eu-north-1a.cf.dmcdn.net/sec2(TQ2y-bWpM7sEuj1-DbaL9Xb1Ma6SZck7SzjRhC293E7-sBxYU_joFceHUGxa6Uc2JPVSHS1l4SHylj1KfK8h0DAKLsgJNn9gAefieFxRyd8Zv8895qYgdq6mPAg76B_O)/dm/3/x7wijay/d/live-720.m3u8#cell=lcf-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Gamavision_logo.png?raw=true", GamaTV
 https://stream.esradioecuador.com/hls/stream.m3u8
@@ -47,6 +47,5 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WOW_logo.png?raw=true", WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
 
-#EXTINF:-1 , CANAL 7
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/CANAL7_logo.png?raw=true", Azteca 7
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/Df3gDsEJTGGYjpHFt_KJPg/stream/39a2570d-50db-436b-9178-02d5f1e9f839:CBF2/variant/8f7f8018637ed7a31c817d9aafd4fcc1/bandwidth/2787400.m3u8?aid=5fea0d6c8bd443786977407e&uid=033eYgqBGcVGTrYAWzHfiVCQMJSCFnXu&sid=FSOlpRltL108uorJkOdQTFYP69JLUWa5&pid=hy8PN546V8yPusrbps6i2QVtFgR6suq4&pid_dvr=IFy708l8ABqHqWiyaDJrru8reqsVpwxB&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=39a2570d-50db-436b-9178-02d5f1e9f839%3ACBF2&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1752472468586&ot=6ZSQfrqJ-lMHSL8Y6DuxHA&proto=https&pz=us
-
