@@ -47,5 +47,5 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WOW_logo.png?raw=true", WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/CANAL7_logo.png?raw=true", Azteca 7
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WARNER_logo.png?raw=true", Azteca 7
 https://live2.saohgdasregions.fun:9091/341_/index.m3u8?token=9c0936c1829e96dfd8eb7925483ba244b6125e38-b4b857bc26b38d0dc6753ea614caf6d7-1752438496-1752416896&remote=181.199.61.32
