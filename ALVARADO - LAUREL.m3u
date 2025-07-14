@@ -47,5 +47,5 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WOW_logo.png?raw=true", WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/CANAL7_logo.png?raw=true", Azteca 7
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/Df3gDsEJTGGYjpHFt_KJPg/stream/39a2570d-50db-436b-9178-02d5f1e9f839:CBF2/variant/8f7f8018637ed7a31c817d9aafd4fcc1/bandwidth/2787400.m3u8?aid=5fea0d6c8bd443786977407e&uid=033eYgqBGcVGTrYAWzHfiVCQMJSCFnXu&sid=FSOlpRltL108uorJkOdQTFYP69JLUWa5&pid=hy8PN546V8yPusrbps6i2QVtFgR6suq4&pid_dvr=IFy708l8ABqHqWiyaDJrru8reqsVpwxB&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=39a2570d-50db-436b-9178-02d5f1e9f839%3ACBF2&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1752472468586&ot=6ZSQfrqJ-lMHSL8Y6DuxHA&proto=https&pz=us
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WARNER_logo.png?raw=true", Warner TV
+https://live2.saohgdasregions.fun:9091/341_/tracks-v1a1/mono.m3u8?remote=186.3.151.122&token=3b9a073a401f28fa5ae4ee8ca53173e94c7561cf-2da188cea3c625ca3823180d42af99dd-1752541287-1752519687
