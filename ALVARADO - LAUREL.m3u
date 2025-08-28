@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/TC_logo.png?raw=true", TC Televisión
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Tk8gnpxiPSSHiLOzAB8iXWUVf-OLxBZHdLYFvhKVCGs4PtcPfA9HLJpd-4_pTtx4AzY4uqL745u5vySIy_aZlXApO9mx8h9g6ZMfmlFoxNM5C0eco0oXWN7u68486keq)/dm/3/x7wijay/d/live-720.m3u8#cell=lcf-eu-north-1b
+https://live.eu-north-1b.cf.dmcdn.net/sec2(lWnmGsmIAsx1lYriWMkTtsebqSiHtWEqniKXtFQCxO6sOOy0V1T2TTfAfuiIDhHlhqH-zHZJD_Im4BGiu5ZCGFBSR3NxBn3165NWC5oUAQpBRreU5nx9Y5_2rpQ6ScCA)/dm/3/x7wijay/d/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Gamavision_logo.png?raw=true", GamaTV
 https://stream.esradioecuador.com/hls/stream.m3u8
@@ -35,8 +35,8 @@ https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Zaracay_logo.png?raw=true", Zaracay TV
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/logo_visiontv.png?raw=true", VisionTv
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Tvs_logo.png?raw=true", TVS Retro Guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/DW_logo.png?raw=true", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -45,5 +45,4 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WOW_logo.png?raw=true", WOW TV El Salvador
-
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
