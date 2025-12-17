@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/TC_logo.png?raw=true", TC Televisión
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6TCZl_BMx5xtsPWGSJpKg2d2_U5oRB0jSJJvmYRYAW8GxEVwUIZ6pc-4kf6pNWoEqCR4VV1u3dqfVBQR07-fv0EAAlgko-3VWGw4d0D0Q58qw4tVAaTbc7b5lcX02_Fu)/dm/3/x7wijay/s/live-720.m3u8#cell=lcf-eu-north-1a
+https://live.eu-north-1b.cf.dmcdn.net/sec2(sIJi0-K-dui9LRWZkml6xxyT75SjsW_AY7CIX-tb3pbFBFe8PtyTr9GEt9j3tiW8km8yZfssJe5BK4l1WwfC-Lah_qeksK5dn9J0At81962g2lycFxs3Or2xYsaYPDBJ)/dm/3/x7wijay/s/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Gamavision_logo.png?raw=true", GamaTV
 https://stream.esradioecuador.com/hls/stream.m3u8
