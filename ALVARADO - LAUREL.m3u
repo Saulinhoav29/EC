@@ -3,16 +3,16 @@
 https://raw.githubusercontent.com/Saulinhoav29/EC/main/TC-720.m3u8
 
 #EXTINF:-1, GamaTV
-https://stream.esradioecuador.com/hls-abr/stream_480p.m3u8
+https://stream.esradioecuador.com/hls/stream.m3u8
 
 #EXTINF:-1, Ecuador TV
-https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Teleamazonas
-https://content1.avplayer.com/5b59760c073ef46a2e6b8f13/videos/68f8c731e66f6e6a4603a0a3/jit/2/hls-ts-5s/gcs/a-68f8c7364f18c0db3f04af85/v-68f8c7364f18c0db3f04af83.68f8c7364f18c0db3f04af84.68f8c7364f18c0db3f04af85/s-39d15d4627005607a201/index-f3-v1.m3u8
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 
 #EXTINF:-1, RTS
-https://d3gvt0njrn7imx.cloudfront.net/16_19/index.m3u8
+https://d27a7brtx3v90o.cloudfront.net/original.m3u8
 
 #EXTINF:-1, Ecuavisa
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b21423819316678436e09bacc&sid=ba5t1l1xb2946634710678436ebabd13&ndvc=0
@@ -20,11 +20,23 @@ https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1, Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1, TVC
-https://d8quf8l8fzs58.cloudfront.net/0_3/index.m3u8
+#EXTINF:-1, RTU
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
-#EXTINF:-1, Vision TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1, TVC
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8
+
+#EXTINF:-1, RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1, PlusTV
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1, Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+#EXTINF:-1, TVS Retro Guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1, DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -32,5 +44,5 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1, RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1, WOW TV El Salvador
-https://cdn1.cef-technology.com/wow/wow_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/WOW_logo.png?raw=true", WOW TV El Salvador
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w922358040_b2000000_slen.m3u8
