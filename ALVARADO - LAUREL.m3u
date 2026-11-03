@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 , TC MI CANAL
-https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=BlC1XLbAtli100u3QdcY_aCrtDex94yegMabhKwLgeukhPzmMXUAcDTcT_qSwvM-
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7wijay.m3u8?ps=930x523&ct=website&td=www.dailymotion.com&eb=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx7wijay&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=-1&rap=1&vidIdx=0&omp=Dailymotion%2F1.0&imal=1&3pcb=0&cap=com.dailymotion.neon&rts=762437&rhv=1&cen=prod&cos=1&rla=es&cpr=xtv3w&cse=1k6ff1dte256939a222&pbm=2&pos=1&plcmt=1&aps=1&ciid=1k6ff1dte256939a222_VMAP_0_0&cidx=0&rdm=c581e7b3-585b-43d4-a65d-813d7bc3bd41&pdm=regular&apo=standard&ccUserGesture=app_enter&uid_dm=a1bce9a3-4a4e-38b8-aa5d-817d48955b5a&af=2%2C7&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis
 
 #EXTINF:-1 tvg-logo="https://github.com/Saulinhoav29/EC/blob/main/logos/Gamavision_logo.png?raw=true", GamaTV
 https://stream.esradioecuador.com/hls/stream.m3u8
